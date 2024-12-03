@@ -9,5 +9,5 @@ The program allows users to add tasks, mark tasks as complete, list tasks, and s
 1. Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-cli.git
-   cd todo-list-cli
+   git clone https://github.com/mahmoudsalah20300/Task_Manager.git
+   cd Task_Manager
